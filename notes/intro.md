@@ -12,7 +12,7 @@ And the tower I built along the way would constitute new knowledge of the landsc
 
 #### Call to action
 
-This journey is not just an intellectual one, updating my world model involves living in the world I am creating while I am creating it (instead of say, armchair philosophy), and in particular adopting a new ethic, which involves finding a new place within new communities, which involves discovering the incenstive structures that a rationalist needs to integrate into some place new.
+This journey is not just an intellectual one, updating my world model involves living in the world I am creating while I am creating it (instead of say, armchair philosophy), and in particular adopting a new ethic, which involves finding a new place within new communities, which involves discovering the incentive structures that a rationalist needs to integrate into some place new.
 
 Therefore it would be emensely helpful to have friends in Mystic and Religious places who are wiling to lend a hand in one way or another, be it by sharing their perspective, pitting their ethic against mine, or being a representative for their respective schools of thought.
 
