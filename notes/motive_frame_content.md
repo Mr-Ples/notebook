@@ -8,7 +8,7 @@ The main idea is simple: all beliefs or memes (the fundamental unit of knowledge
 
 The implicit content consists of two components: the motive and the frame.
 
-![MFC](assets/pictures/outline_wip.png)
+![MFC](../assets/pictures/outline_wip.png)
 
 Thats it.
 
