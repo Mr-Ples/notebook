@@ -1,4 +1,4 @@
-# WIP
+# MFC (WIP)
 
 ### Outline
 
@@ -16,9 +16,11 @@ Thats it.
 
 I'll briefly explain the relevance: 
 
-I have identified 2 catagories within which you can neatly group an enourmous amount of concepts that have all up to now only implicitly related to each other, namly Action Tendencies and Value Representations (see image for the concepts that fall in each group).
+I have identified 2 catagories within which you can neatly group an enourmous amount of concepts that have all up to now only implicitly been connected to each other, namely **Action Tendencies** and **Value Representations** (see image for some concepts that fall in each group).
 
-It turns out that Ethics is the study of Action Tendencies and Aesthetics is the study of Value Representation. This usage of the terms Ethics and Aesthetics are generalizations of how the concepts are normally used. (The generalization doesn't just fall out of the sky, postulating "value representation" as the general catagory that Aesthetics is responsible for links value and representation and Aesthetics, like an equation `A=VR`, similarly for Ethics and action, none of this is trivial)
+It turns out that **Ethics is the study of Action Tendencies** and **Aesthetics is the study of Value Representation**. This usage of the terms Ethics and Aesthetics are generalizations of how the concepts are normally used.
+
+This generalization doesn't just fall out of the sky, postulating "value representation" as the general catagory that Aesthetics is responsible for links value and representation and Aesthetics, like an equation `A=VR`, similarly for Ethics and action, none of this is trivial or arbitrary.
 
 I've found this classification to have unexpected consequences and isomorpisms (will be explicated, lightly documented on my twitter) that were not intentionally baked in, which hints at the (potential for the) existence of an actual theory that posits these relationships and categories that is waiting to be discovered (instead of an ad hoc classification system), which could be the basis for grounding Aesthetics and Ethics in the scientific world.
 
