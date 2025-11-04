@@ -1,3 +1,8 @@
+## Table of Contents
+
+- [Aesthetics](#aesthetics)
+- [Beauty](#beauty)
+
 ## Aesthetics
 
 Aesthetics is the study of value representation.
@@ -21,6 +26,8 @@ Riding a bike is almost entirely inexplicit, but it does not classify as beautif
 **Alternative/Conflicting definitions**:
 
 Beauty is an aesthetic that is characterized by soft, rounded, and often delicate appearance [^1].
+
+**Commentary**: This means a piece of art can be e.g. Sublime without being beautiful. Since the sublime is characterized by being e.g. epic. This conflicts with the above definition because in the above conception the sublime is a type of beauty, whereas with this definition the sublime and beauty are both a type of aesthetic.
 
 ---
 
