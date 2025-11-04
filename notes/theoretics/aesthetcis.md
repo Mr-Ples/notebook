@@ -13,7 +13,7 @@ Aesthetics is the study of value representation.
 
 **Alternative/Conflicting definitions**
 
-Aesthetics is a form of implementation dependence [^1].
+Aesthetics is a form of implementation dependence, or "content in form" [^1].
 
 ## Beauty
 
