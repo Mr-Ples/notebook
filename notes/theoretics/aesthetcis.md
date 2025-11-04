@@ -29,6 +29,4 @@ Beauty is an aesthetic that is characterized by soft, rounded, and often delicat
 
 **Commentary**: This means a piece of art can be e.g. Sublime without being beautiful. Since the sublime is characterized by being e.g. epic. This conflicts with the above definition because in the above conception the sublime is a type of beauty, whereas with this definition the sublime and beauty are both a type of aesthetic.
 
----
-
 [^1]: see [Tom Hyde’s talk on Beauty](https://x.com/tomhyde_/status/1976957482166895097)
