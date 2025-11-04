@@ -8,7 +8,7 @@ Aesthetics is the study of value representation.
 
 **Alternative/Conflicting definitions**
 
-Aesthetics is a form of implementation dependence [1].
+Aesthetics is a form of implementation dependence [^1].
 
 ## Beauty
 
@@ -20,8 +20,8 @@ Riding a bike is almost entirely inexplicit, but it does not classify as beautif
 
 **Alternative/Conflicting definitions**:
 
-Beauty is an aesthetic that is characterized by soft, rounded, and often delicate appearance [1].
+Beauty is an aesthetic that is characterized by soft, rounded, and often delicate appearance [^1].
 
 ---
 
-1. see [Tom Hyde’s talk on Beauty](https://x.com/tomhyde_/status/1976957482166895097)
+[^1]: see [Tom Hyde’s talk on Beauty](https://x.com/tomhyde_/status/1976957482166895097)
